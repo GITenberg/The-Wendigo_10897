@@ -1,5 +1,8 @@
 _repo: The-Wendigo_10897
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blackwood, Algernon
@@ -12,6 +15,8 @@ description: Algernon Blackwood's "The Wendigo" tells the story of a camping tri
   in the Canadian wilderness that goes horribly wrong when the hunters become the
   hunted. Drawing on the mythical creature known as the Wendigo, this story is regarded
   by many critics to be one of the best horror tales of all time.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10897#The-Wendigo
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
